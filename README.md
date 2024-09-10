@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on exploratory data science projects or other cool things.
 - 📫 How to reach me ...
 - 😄 Pronouns: She
-- ⚡ Fun fact: 
 
 <!---
 Indicium199/Indicium199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
