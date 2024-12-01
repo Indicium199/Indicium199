@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indicium199
 - 👀 I’m interested in all things data, learning and applying tools that aid the hunt for insight and 'distinguishing marks' ;-)
-- 🌱 I’m currently learning Azure for Data Science, Plotly and extending my knowledge of Python and R libraries.
+- 🌱 I’m currently learning Azure for Data Science and AI, Plotly and extending my knowledge of Python and R libraries.
 - 💞️ I’m looking to collaborate on exploratory data science projects or other cool things.
 - 📫 How to reach me ...
 - 😄 Pronouns: She
